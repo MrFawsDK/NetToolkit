@@ -2,7 +2,6 @@
 
 Et alsidigt kommandolinjeværktøj til netværksdiagnostik og -sikkerhedsanalyse med en farverig brugervenlig grænseflade.
 
-![Netværksværktøj Screenshot](https://via.placeholder.com/800x400?text=Netv%C3%A6rksv%C3%A6rkt%C3%B8j)
 
 ## Funktioner
 
@@ -89,7 +88,7 @@ Dette projekt er udgivet under MIT-licensen - se LICENSE filen for detaljer.
 
 ## Forfatter
 
-Dit navn her
+Fawsdev.dk
 
 ## Anerkendelser
 
